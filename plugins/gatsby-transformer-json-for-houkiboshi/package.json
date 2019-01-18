@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-transformer-json-for-houkiboshi",
+  "description": "Gatsby transformer plugin for JSON files",
+  "author": "qrg <qualle.rhythmus+d@gmail.com>",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "json"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": ">=2.0.15"
+  }
+}
